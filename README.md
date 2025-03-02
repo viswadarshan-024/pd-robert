@@ -10,7 +10,7 @@ This is a fine-tuned version of **RoBERTa-base** for **paraphrase detection**, t
 
 ### Model Sources
 
-- **Repository:** [Hugging Face Model Hub](https://huggingface.co/viswadarshan06/pd-bert/)  
+- **Repository:** [Hugging Face Model Hub](https://huggingface.co/viswadarshan06/pd-robert)
 - **Research Paper:** _Comparative Insights into Modern Architectures for Paraphrase Detection_ (Accepted at ICCIDS 2025)  
 - **Demo:** (To be added upon deployment) 
 
